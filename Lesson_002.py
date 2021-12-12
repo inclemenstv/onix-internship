@@ -58,4 +58,5 @@ x = set(list)
 print(x)
 ################### Задание 1.5 #################
 
-
+string = ''.join(str(x))
+print("Contents of string : ", string)
